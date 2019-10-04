@@ -1,4 +1,6 @@
+// to find the missing no in the given array .
 //that solution is using the concept of xor eg. 1^1=0,2^2=0
+//that soulution given by Harsh jain 
 class Solution {
     public int missingNumber(int[] nums) {
         int missingno = nums.length;
